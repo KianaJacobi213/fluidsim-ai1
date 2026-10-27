@@ -1,0 +1,5 @@
+google-genai
+pydantic
+streamlit
+pillow
+ezdxf
